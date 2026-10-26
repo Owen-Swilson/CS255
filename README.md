@@ -1,6 +1,4 @@
-# CS255
-8-2 Journal
-# CS 255 System Analysis and Design Portfolio
+# CS 255 System Analysis and Design Portfolio 8-2 Journal
 
 ## DriverPass Project Summary
 
